@@ -1,0 +1,10 @@
+C:\Users\ulise\source\repos\ED_1\bin\Debug\ED_1.exe.config
+C:\Users\ulise\source\repos\ED_1\bin\Debug\ED_1.exe
+C:\Users\ulise\source\repos\ED_1\bin\Debug\ED_1.pdb
+C:\Users\ulise\source\repos\ED_1\obj\Debug\ED_1.csproj.AssemblyReference.cache
+C:\Users\ulise\source\repos\ED_1\obj\Debug\ED_1.Form1.resources
+C:\Users\ulise\source\repos\ED_1\obj\Debug\ED_1.Properties.Resources.resources
+C:\Users\ulise\source\repos\ED_1\obj\Debug\ED_1.csproj.GenerateResource.cache
+C:\Users\ulise\source\repos\ED_1\obj\Debug\ED_1.csproj.CoreCompileInputs.cache
+C:\Users\ulise\source\repos\ED_1\obj\Debug\ED_1.exe
+C:\Users\ulise\source\repos\ED_1\obj\Debug\ED_1.pdb
